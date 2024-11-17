@@ -43,7 +43,7 @@ Untuk menjalankan aplikasi ini, kamu harus masuk ke folder (_directory_) yang se
 ```bash
 streamlit run prediction.py
 ```
-atau bisa akses di link berikut secara online: <a href=" linknay">Streamlit</a>
+atau bisa akses di link berikut secara online: <a href="https://4fheqowfkzggbwkeohsagh.streamlit.app/">Streamlit</a>
 
 ## Conclusion
 - Tingkat dropout siswa yang tidak menerima beasiswa cenderung lebih tinggi dibandingkan dengan siswa yang menerima beasiswa; ini menunjukkan betapa pentingnya mendapatkan dukungan keuangan untuk mendorong siswa untuk menyelesaikan pendidikan mereka.
